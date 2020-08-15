@@ -1,2 +1,2 @@
-# GradCollegePredictor
-A Multiple Linear Regression Model to predict the probability of admission into various universities based on GRE Score, TOEFL Score, College Score, Research experience etc.
+# Graduate Admission Prediction
+A Regression model to predict the chance of admission into a particular university based on student's profile.
